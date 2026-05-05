@@ -20,7 +20,8 @@ This lab outlines the prerequisites for Installation of the open-source help des
 <h2>Installation</h2>
 <h3>STEP 1.)
 We need to prepare our virtual machine and add our operating system which will be Windows 10 Enterprise(x64). We will navigate to "images" and select our operating system here 
-<img width="1907" height="799" alt="AzureVM" src="https://github.com/user-attachments/assets/1e781540-ddbf-420a-8dfd-8293fe5f1d99" />
+<img width="1907" height="799" alt="AzureVM" src="https://github.com/user-attachments/assets/0a2b20a9-0fc5-4847-b11a-9e78df991ad1" />
+
 
 <h3>STEP 2.)
 Once our virtual machine is deployed and running we will begin the next step of connecting to our virtual machine utilizing remote desktop connection(RDC). We will need our virtual machines public Ip address and login information that we created during the process of making the virtual machine in Azure. Once we login we will then open up powershell to ping the virtual machine to confirm everything is connected.
